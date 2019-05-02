@@ -1,27 +1,37 @@
----
-name: Custom paper summary template
-about: Paper Summary
+# date
 
----
 
 # INFO
-## author
+### author
 
-## affiliation
+### affiliation
 
-## conference or year
+### conference or year
 
-## link
+### link
 [pdf]()
 
 # 概要
 
+##新規性
+
 # 提案手法
+### ネットワーク
 
-# 検証
 
-# 新規性
+### Loss
+
+
+# 実験
+### dataset
+
+### 評価指標
+
+### 結果
+
 
 # 議論，展望
 
-# date
+
+# 次に読むべき論文
+

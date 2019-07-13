@@ -4,6 +4,7 @@
 # CVPR2019
 ## 2019
 [Rethinking the Evaluation of Video Summaries](https://github.com/shuto-keio/paper_summary/issues/6)
+
 Reliable and Efficient Image Cropping: A Grid Anchor based Approach](https://github.com/shuto-keio/paper_summary/issues/14) *TODO*
 
 ## 2018
@@ -16,6 +17,7 @@ Reliable and Efficient Image Cropping: A Grid Anchor based Approach](https://git
 
 ## 2019
 [Temporal Hockey Action Recognition via Pose and Optical Flows](https://github.com/shuto-keio/paper_summary/issues/17)
+
 [GolfDB: A Video Database for Golf Swing Sequencing](https://github.com/shuto-keio/paper_summary/issues/16)
 
 # ECCV
@@ -33,7 +35,7 @@ Reliable and Efficient Image Cropping: A Grid Anchor based Approach](https://git
 
 # ICCV
 ## 2017
-[https://github.com/shuto-keio/paper_summary/issues/11](https://github.com/shuto-keio/paper_summary/issues/11)
+[Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://github.com/shuto-keio/paper_summary/issues/11)
 
 # ICML
 ## 2015
@@ -42,7 +44,11 @@ Reliable and Efficient Image Cropping: A Grid Anchor based Approach](https://git
 # Others
 # 2019
 [Few-Shot Unsupervised Image-to-Image Translation](https://github.com/shuto-keio/paper_summary/issues/13) *TODO*
+
 [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://github.com/shuto-keio/paper_summary/issues/12) *TODO*
+
 [Unsupervised Domain Adaptation by Backpropagation](https://github.com/shuto-keio/paper_summary/issues/8)
+
 [Comixify: Transform video into a comics](https://github.com/shuto-keio/paper_summary/issues/3)
+
 [TernausNet: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation](https://github.com/shuto-keio/paper_summary/issues/2)

@@ -8,7 +8,7 @@
 [Reliable and Efficient Image Cropping: A Grid Anchor based Approach](https://github.com/shuto-keio/paper_summary/issues/14) *TODO*
 
 ### 2018
-[Tell Me Where to Look: Guided Attention Inference Network](https://github.com/shuto-keio/paper_summary/issues/4)
+[Tell Me Where to Look: Guided Attention Inference Network](https://github.com/shuto-keio/paper_summary/issues/4)TODO
 
 ### 2016
 [Learning Deep Features for Discriminative Localization](https://github.com/shuto-keio/paper_summary/issues/10)
@@ -22,14 +22,14 @@
 
 ## ECCV
 ### 2016
-[Video Summarization with Long Short-term Memory](https://github.com/shuto-keio/paper_summary/issues/5)
+[Video Summarization with Long Short-term Memory](https://github.com/shuto-keio/paper_summary/issues/5)TODO
 
 # NIPS
 ### 2017
 [Few-Shot Adversarial Domain Adaptation](https://github.com/shuto-keio/paper_summary/issues/18)
 ### 2011
 
-[Algorithms for Hyper-Parameter Optimization](https://github.com/shuto-keio/paper_summary/issues/1)
+[Algorithms for Hyper-Parameter Optimization](https://github.com/shuto-keio/paper_summary/issues/1)TODO
 
 # AAAI
 ### 2018

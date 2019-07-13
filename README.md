@@ -49,8 +49,6 @@
 
 [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://github.com/shuto-keio/paper_summary/issues/12) *TODO*
 
-[Unsupervised Domain Adaptation by Backpropagation](https://github.com/shuto-keio/paper_summary/issues/8)
-
 [Comixify: Transform video into a comics](https://github.com/shuto-keio/paper_summary/issues/3)
 
 [TernausNet: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation](https://github.com/shuto-keio/paper_summary/issues/2)

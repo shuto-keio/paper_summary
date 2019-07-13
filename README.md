@@ -1,7 +1,7 @@
 # paper summary
 読んだ論文をIssuesにまとめました
 
-#CVPR2019
+# CVPR2019
 ## 2019
 [Rethinking the Evaluation of Video Summaries](https://github.com/shuto-keio/paper_summary/issues/6)
 Reliable and Efficient Image Cropping: A Grid Anchor based Approach](https://github.com/shuto-keio/paper_summary/issues/14) *TODO*

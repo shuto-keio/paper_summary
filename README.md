@@ -5,7 +5,7 @@
 ### 2019
 [Rethinking the Evaluation of Video Summaries](https://github.com/shuto-keio/paper_summary/issues/6)
 
-[MS-TCN: Multi-Stage Temporal Convolutional Network for Action Segmentation](https://github.com/shuto-keio/paper_summary/issues/18)
+[MS-TCN: Multi-Stage Temporal Convolutional Network for Action Segmentation](https://github.com/shuto-keio/paper_summary/issues/19)
 
 [Reliable and Efficient Image Cropping: A Grid Anchor based Approach](https://github.com/shuto-keio/paper_summary/issues/14) *TODO*
 

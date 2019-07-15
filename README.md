@@ -47,6 +47,8 @@
 
 ## Others
 ### 2019
+[Weakly Supervised Gaussian Networks for Action Detection](https://github.com/shuto-keio/paper_summary/issues/20)
+
 [Few-Shot Unsupervised Image-to-Image Translation](https://github.com/shuto-keio/paper_summary/issues/13) *TODO*
 
 [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://github.com/shuto-keio/paper_summary/issues/12) *TODO*

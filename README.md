@@ -9,6 +9,7 @@
 
 [Reliable and Efficient Image Cropping: A Grid Anchor based Approach](https://github.com/shuto-keio/paper_summary/issues/14) *TODO*
 
+[Temporal Cycle-Consistency Learning](https://github.com/shuto-keio/paper_summary/issues/23)
 ### 2018
 [Tell Me Where to Look: Guided Attention Inference Network](https://github.com/shuto-keio/paper_summary/issues/4)TODO
 

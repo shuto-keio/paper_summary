@@ -38,6 +38,8 @@
 [Deep Reinforcement Learning for Unsupervised Video Summarization with Diversity-Representativeness Reward](https://github.com/shuto-keio/paper_summary/issues/15)
 
 # ICCV
+### 2019
+[SinGAN: Learning a Generative Model from a Single Natural Image](https://github.com/shuto-keio/paper_summary/issues/22)
 ### 2017
 [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://github.com/shuto-keio/paper_summary/issues/11)
 

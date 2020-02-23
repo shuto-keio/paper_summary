@@ -3,6 +3,8 @@
 
 ## CVPR2019
 ### 2019
+[3D human pose estimation in video with temporal convolutions and semi-supervised training](https://github.com/shuto-keio/paper_summary/issues/25)
+
 [Rethinking the Evaluation of Video Summaries](https://github.com/shuto-keio/paper_summary/issues/6)
 
 [MS-TCN: Multi-Stage Temporal Convolutional Network for Action Segmentation](https://github.com/shuto-keio/paper_summary/issues/19)

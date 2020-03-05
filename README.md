@@ -1,3 +1,6 @@
+# 2020.03.01 こちらに移動します
+https://horipult.hatenablog.com/
+
 # paper summary
 読んだ論文をIssuesにまとめました
 
